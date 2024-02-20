@@ -1,0 +1,23 @@
+522601-->
+Hospital: Sri Datta Multi-speciality Hospital,
+contactnumber:08647-231309,
+location:"Near library, Palnadu Rd, Narasaraopet",
+timings: 24hrs.
+
+522213-->
+Hospital: DVC Hospital,
+contactnumber:08632-387777,
+location:"Tenali Rd, Vadlamudi",
+timings: 24hrs.
+
+522001-->
+Hospital: Ramesh Hospitals,
+contactnumber:08632-377777,
+location:"Collector Office Rd, Guntur",
+timings: 24hrs.
+
+534001-->
+Hospital: Asram General & Super Speciality Hospital,
+contactnumber:08812-288299,
+location:"NH-5, Eluru",
+timings: 24hrs.
